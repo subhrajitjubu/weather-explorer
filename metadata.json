@@ -1,0 +1,7 @@
+{
+  "name": "Weather Explorer",
+  "description": "A sophisticated weather visualization dashboard featuring interactive maps, real-time data charts, and Gemini-powered meteorological insights.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
